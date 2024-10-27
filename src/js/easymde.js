@@ -3049,4 +3049,6 @@ EasyMDE.prototype.toTextArea = function () {
     }
 };
 
+EasyMDE.marked = marked;
+
 module.exports = EasyMDE;
